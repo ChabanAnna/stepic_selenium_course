@@ -1,2 +1,2 @@
-# stepic_selenium_course
-My homework
+Курс "Автоматизация тестирования с помощью Selenium и Python"
+Решения дз
